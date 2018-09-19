@@ -1,1 +1,49 @@
-theme: jekyll-theme-hacker
+# Basic
+title: 小北
+subtitle: 嗨，我是小北(@smallbei)，是一名iOS软件开发者。目前使用的语言是 Objective-C。等待Swift5.0出来以后，会学习相关的Swift
+# welcome_message: <a href="https://github.com/smallbei" target="_blank">Download the theme</a>
+description: 小北 iOS 学习记录.
+creator: <a href="http://smallbei.com">@smallbei</a>
+
+# url: "http://vno.onevcat.com"
+
+permalink: /:year/:month/:title/
+
+# Format
+highlighter: rouge
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: blue
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客
+    # description: Visit blog
+
+# Navigation buttons in the front page.
+# nav:
+#     - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    # - {title: Another Button, description: A button, url: 'http://example.com'}
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 10
+paginate_path: "page/:num/"
+
+# Comment
+# comment:
+#     disqus: vno-jekyll
+    # duoshuo: 
+    
+# Social
+# social:
+#     weibo: onevcat
+#     github: onevcat
+#     twitter: onevcat
+#     gplus: 107108267983477358170
+#     mail: onev@onevcat.com
+
+# Google Analytics
+# ga:
+    # id: your_ga_id
+    # host: your_host
